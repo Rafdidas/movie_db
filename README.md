@@ -1,4 +1,7 @@
 ### movie_db
+
+## 페이지 링크 : https://rafdidas.github.io/movie_db/
+
 ### React 와 TMDB라는 Api를 활용하여 만든 영화의 정보를 알 수 있는 사이트 입니다.
 * 전체 페이지 반응형으로 작업되었습니다.
 
